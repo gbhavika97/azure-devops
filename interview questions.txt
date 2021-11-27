@@ -1,0 +1,38 @@
+LTI:
+
+1.What are deployment slots?
+2.Explain about your project.
+3.Why do you use .NET in pipelines?
+4.What will you do to decrease the downtime when you run the pipeline to provision the webapp?
+5.What are the variables in build pipelines?
+6.Where do you store your artifacts?
+7.Where is terraform tf.state file stored and what is the use?
+8.Apart from .NET what are the other tasks you have done?
+9.What are task groups and if you can use them in multiple other projects?
+10.What are the agents you use?(hosted or self hosted)
+11.Difference between hosted and self hosted agents.
+12.What is PAT and when do you use?
+13.If I configure endpoints in my webapp,which agent should we use and why?
+14.What are the branching and merging strategies you follow and which is the best strategy according to you?
+15.What are your daily activities?
+16.How do you build pipelines in different environments?
+17.Why keyvault is configured in pipelines?
+
+
+PACTERA EDGE:
+
+1.What are your daily activities?
+2.What are recurring issues you have faced?
+3.What is the infrastructure on which the builds are runned in your organisation?
+4.Hosted & self hosted agents?
+5.What are the different DevOps tools you have used?
+6.What is the difference between Git and GitHub?
+7.What is the difference between TFS and GitHub?
+8.What is the difference between distributed and centralised
+9.Does your current environment use containerised docker images?
+10.Who would be writing the scripts?
+11.Do you have deployment slots and what do you mean by them?
+12.How do you configure release pipelines in general?
+13.Did you get any chance to configure the release failures?
+14.Why do you use powershell in pipelines?
+
